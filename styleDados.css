@@ -1,0 +1,46 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100vh;
+	background: #000;
+	font-family: sans-serif;
+
+}
+.form
+{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 800px;
+	align-items: center;
+	padding: 60px 60px;
+	background: #fff;
+}
+.principal
+{
+	background: #696969;
+	color: #FFD700;
+	border: none;
+	cursor: col-resize;
+	text-transform: uppercase;
+}
+td, p, h1
+{
+	text-align: center;
+
+}
+table, td 
+{
+  border: 1px solid black;
+  padding: 5px;
+}
+a
+{
+	display: block;
+	margin-top: 4px;
+	color: #008B8B;
+	font-weight: bold;
+}
