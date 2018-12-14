@@ -18,13 +18,14 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/preload.css') }}" rel="stylesheet">
 </head>
 <body>
     <div id="ms-preload" class="ms-preload">
         <div id="status">
             <div class="spinner">
-                <div class="dot1"><h1>Connect</h1></div>
-                <div class="dot2"><h1>City</h1></div>
+                <div class="dot1"><h1>City</h1></div>
+                <div class="dot2"><h1>Connect</h1></div>
             </div>
         </div>
     </div>

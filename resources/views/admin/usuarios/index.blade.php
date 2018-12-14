@@ -92,7 +92,7 @@
 			<label for="sex2">Sexo</label>
 			<select id="sex2" class="form-control" name="sex">
 				<option {{(old('sex') && old('sex') == 'M'? 'selected' :'' )}} value="M">Masculino</option>
-				<option {{(old('sex') && old('sex') == 'F'? 'selected' :'' )}} >Feminino</option>
+				<option {{(old('sex') && old('sex') == 'F'? 'selected' :'' )}} value="F">Feminino</option>
 			</select>
 		</div>
 		<div class="form-group">
