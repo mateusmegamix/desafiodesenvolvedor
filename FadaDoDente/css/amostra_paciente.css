@@ -1,0 +1,94 @@
+.cemporcento{
+  width: 100%;
+
+}
+.cemporcento a{
+  color: #3b6a75;
+}
+.cemporcento2{
+  width: 100%;
+  padding-top: 15px;
+}
+.cemporcento2 a{
+  color: #3b6a75;
+  
+}
+.divpaciente1{
+  border: 3px solid;
+  border-color: #3b6a75;
+  border-radius: 15px;
+  padding: 15px 0;
+  margin-right: 7px;
+}
+.divpaciente2{
+  border: 3px solid;
+  border-color: #3b6a75;
+  border-radius: 15px;
+  padding: 15px 0;
+  margin-left: 7px;
+}
+.fotopaciente{
+  width: 40%;
+}
+.fotopaciente img{
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 7px; 
+}
+.fotopaciente2 img{
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 7px;
+  left: 0; 
+}
+.informacoespaciente{
+  text-align: left;
+  font-size: 14px;
+  margin: 0 auto;
+  width: auto;
+  padding-top: 0.5em;
+  padding-left: 0;
+}
+.alinharcentro{
+  margin: 0 auto;
+  padding-top: 30px;
+  background-color: #fff;
+}
+.fechar {
+  position: absolute;
+  width: 30px;
+  right: -15px;
+  top: -20px;
+  text-align: center;
+  line-height: 30px;
+  margin-top: 5px;
+  padding-top: 3px;
+  background: #74d0ff;
+  border-radius: 50%;
+  font-size: 16px;
+  color: #3b6a75;
+}
+.fechar:hover {
+  text-transform: none;
+  text-decoration: none;
+}
+.btncolor{
+  background-color: #17b0ff;
+  color: #000000; 
+}
+.btncolor:hover{
+  background-color: #6acafc;
+  color: #404040; 
+}
+.textoemphp{
+  color: #000;
+  font-style: italic;
+}
+.separacao{
+  height: 5px;
+}
+.activity-img img{
+  border-radius: 10px;
+  max-width: 70px;
+  max-width: 70px;
+}
